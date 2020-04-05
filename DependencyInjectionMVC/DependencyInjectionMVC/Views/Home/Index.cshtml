@@ -1,0 +1,23 @@
+﻿@model Post
+@{
+    ViewData["Title"] = "Create Post";
+}
+
+@Html.HiddenFor(x => x.Id)
+@using (Html.BeginForm("Post", "Home", FormMethod.Post))
+{
+    <form>
+
+        <div class="form-group">
+            <label> Title :</label>
+            @Html.TextBoxFor(x => x.Title, new { @class = "form-control w-75", placeholder = "Title", name = "title", id = "title", type = "text" })
+        </div>
+
+        <div class="form-group">
+            <label> Content :</label>
+            @Html.TextAreaFor(x => x.Content, new { @class = "form-control w-75", placeholder = "Title", name = "title", id = "title", type = "text", cols = "20", rows = "5" })
+        </div>
+
+        <button type="submit" class="btn btn-primary">Post</button>
+    </form>
+}

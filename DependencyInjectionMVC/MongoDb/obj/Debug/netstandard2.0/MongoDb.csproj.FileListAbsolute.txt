@@ -1,0 +1,12 @@
+C:\Users\ABRA\Desktop\Github\.NetCoreDependencyInjection\DependencyInjectionMVC\MongoDb\bin\Debug\netstandard2.0\Crypto.dll
+C:\Users\ABRA\Desktop\Github\.NetCoreDependencyInjection\DependencyInjectionMVC\MongoDb\obj\Debug\netstandard2.0\MongoDb.csprojAssemblyReference.cache
+C:\Users\ABRA\Desktop\Github\.NetCoreDependencyInjection\DependencyInjectionMVC\MongoDb\obj\Debug\netstandard2.0\MongoDb.AssemblyInfoInputs.cache
+C:\Users\ABRA\Desktop\Github\.NetCoreDependencyInjection\DependencyInjectionMVC\MongoDb\obj\Debug\netstandard2.0\MongoDb.AssemblyInfo.cs
+C:\Users\ABRA\Desktop\Github\.NetCoreDependencyInjection\DependencyInjectionMVC\MongoDb\bin\Debug\netstandard2.0\MongoDb.deps.json
+C:\Users\ABRA\Desktop\Github\.NetCoreDependencyInjection\DependencyInjectionMVC\MongoDb\bin\Debug\netstandard2.0\MongoDb.dll
+C:\Users\ABRA\Desktop\Github\.NetCoreDependencyInjection\DependencyInjectionMVC\MongoDb\bin\Debug\netstandard2.0\MongoDb.pdb
+C:\Users\ABRA\Desktop\Github\.NetCoreDependencyInjection\DependencyInjectionMVC\MongoDb\bin\Debug\netstandard2.0\Crypto.pdb
+C:\Users\ABRA\Desktop\Github\.NetCoreDependencyInjection\DependencyInjectionMVC\MongoDb\obj\Debug\netstandard2.0\MongoDb.csproj.CoreCompileInputs.cache
+C:\Users\ABRA\Desktop\Github\.NetCoreDependencyInjection\DependencyInjectionMVC\MongoDb\obj\Debug\netstandard2.0\MongoDb.csproj.CopyComplete
+C:\Users\ABRA\Desktop\Github\.NetCoreDependencyInjection\DependencyInjectionMVC\MongoDb\obj\Debug\netstandard2.0\MongoDb.dll
+C:\Users\ABRA\Desktop\Github\.NetCoreDependencyInjection\DependencyInjectionMVC\MongoDb\obj\Debug\netstandard2.0\MongoDb.pdb
