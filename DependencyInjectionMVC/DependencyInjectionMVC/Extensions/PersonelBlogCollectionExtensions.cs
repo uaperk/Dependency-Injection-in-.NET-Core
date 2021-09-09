@@ -4,6 +4,7 @@ using DependencyInjectionMVC.Repository;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using MongoDb;
+using MongoDb.Core;
 using MongoDB.Bson;
 using MongoDB.Bson.Serialization;
 using MongoDB.Bson.Serialization.IdGenerators;
@@ -28,14 +29,11 @@ namespace DependencyInjectionMVC.Extensions
                pm.SetIgnoreExtraElements(true);
            });
 
+
+            services.AddSingleton<IPostRepositoryService, PostRepositoryService>();
+
             return services;
         }
 
-        public static IServiceCollection AddMongoOptionManager(this IServiceCollection services, IConfiguration configuration)
-        {
-            services.AddSingleton<IPostRepositoryService, PostRepositoryService>();
-            services.AddSingleton(typeof(IGenericRepository<,>), typeof(MongoDbRepository<,>));
-            return services;
-        }
     }
 }

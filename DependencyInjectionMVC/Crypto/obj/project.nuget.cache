@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "WXkFHqLzmq4urBflLAYeK20z0kQBXnxA6JVFP0gwaUlamOVkahEgCuGl3d6Fb1DercMt4fg2shfY0eVFFigJUg==",
+  "dgSpecHash": "DgOwDalr1/5m8fHas7OYzzXr/iIsBzPIpYj9YNmnRSlotm3oS6msWu0ISHuzBKZ4jKKj5yM9x7pDDGcsCqEeOQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ABRA\\Desktop\\Github\\.NetCoreDependencyInjection\\DependencyInjectionMVC\\Crypto\\Crypto.csproj",
+  "projectFilePath": "C:\\Users\\ugur.andac\\Desktop\\mongoRepo\\Dependency-Injection-in-.NET-Core\\DependencyInjectionMVC\\Crypto\\Crypto.csproj",
   "expectedPackageFiles": [
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\ugur.andac\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ugur.andac\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

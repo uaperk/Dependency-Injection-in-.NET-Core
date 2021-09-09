@@ -19,12 +19,12 @@ namespace DependencyInjectionMVC.Repository
 
         public async Task Create(Post model)
         {
-           this.genericRepository.Add(model);
+           this.genericRepository.AddOne(model);
         }
 
         public IReadOnlyList<Post> GetAll()
         {
-            return  this.genericRepository.Query().ToList().GetAwaiter().GetResult();
+            return  this.genericRepository.Query().ToListAsync().GetAwaiter().GetResult();
         }
     }
 }

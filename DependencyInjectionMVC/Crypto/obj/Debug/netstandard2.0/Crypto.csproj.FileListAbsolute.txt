@@ -6,3 +6,11 @@ C:\Users\ABRA\Desktop\Github\.NetCoreDependencyInjection\DependencyInjectionMVC\
 C:\Users\ABRA\Desktop\Github\.NetCoreDependencyInjection\DependencyInjectionMVC\Crypto\obj\Debug\netstandard2.0\Crypto.AssemblyInfo.cs
 C:\Users\ABRA\Desktop\Github\.NetCoreDependencyInjection\DependencyInjectionMVC\Crypto\obj\Debug\netstandard2.0\Crypto.dll
 C:\Users\ABRA\Desktop\Github\.NetCoreDependencyInjection\DependencyInjectionMVC\Crypto\obj\Debug\netstandard2.0\Crypto.pdb
+C:\Users\ugur.andac\Desktop\mongoRepo\Dependency-Injection-in-.NET-Core\DependencyInjectionMVC\Crypto\bin\Debug\netstandard2.0\Crypto.deps.json
+C:\Users\ugur.andac\Desktop\mongoRepo\Dependency-Injection-in-.NET-Core\DependencyInjectionMVC\Crypto\bin\Debug\netstandard2.0\Crypto.dll
+C:\Users\ugur.andac\Desktop\mongoRepo\Dependency-Injection-in-.NET-Core\DependencyInjectionMVC\Crypto\bin\Debug\netstandard2.0\Crypto.pdb
+C:\Users\ugur.andac\Desktop\mongoRepo\Dependency-Injection-in-.NET-Core\DependencyInjectionMVC\Crypto\obj\Debug\netstandard2.0\Crypto.AssemblyInfoInputs.cache
+C:\Users\ugur.andac\Desktop\mongoRepo\Dependency-Injection-in-.NET-Core\DependencyInjectionMVC\Crypto\obj\Debug\netstandard2.0\Crypto.AssemblyInfo.cs
+C:\Users\ugur.andac\Desktop\mongoRepo\Dependency-Injection-in-.NET-Core\DependencyInjectionMVC\Crypto\obj\Debug\netstandard2.0\Crypto.csproj.CoreCompileInputs.cache
+C:\Users\ugur.andac\Desktop\mongoRepo\Dependency-Injection-in-.NET-Core\DependencyInjectionMVC\Crypto\obj\Debug\netstandard2.0\Crypto.dll
+C:\Users\ugur.andac\Desktop\mongoRepo\Dependency-Injection-in-.NET-Core\DependencyInjectionMVC\Crypto\obj\Debug\netstandard2.0\Crypto.pdb
